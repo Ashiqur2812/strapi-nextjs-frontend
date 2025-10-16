@@ -20,11 +20,8 @@
       }
     ],
     "paths": {
-      "@/styles/*": [
-        "styles/*"
-      ],
-      "@/components/*": [
-        "components/*"
+      "@/*": [
+        "*"
       ]
     }
   },
